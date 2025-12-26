@@ -1,0 +1,7 @@
+{
+  "name": "EcoVerify",
+  "description": "Scan and analyze product packaging to detect greenwashing and verify sustainability claims using advanced AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
